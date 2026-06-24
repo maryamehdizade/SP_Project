@@ -5,7 +5,6 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-latest-blue.svg)
 
 This repository contains a Python-based Jupyter Notebook project exploring the fundamentals of Gaussian Processes (GPs), Bayesian hyperparameter inference, and Stochastic Differential Equations (SDEs) via Langevin Dynamics.
-#### Github Repositpory: https://github.com/maryamehdizade/SP_Project.git
 
 ---
 
